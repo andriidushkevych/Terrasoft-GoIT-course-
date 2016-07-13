@@ -1,0 +1,6 @@
+c:\users\lenovo_e530\documents\visual studio 2013\Projects\hw1\hw1\bin\Debug\hw1.exe.config
+C:\Users\Lenovo_E530\Documents\Visual Studio 2013\Projects\hw1\hw1\bin\Debug\hw1.exe
+C:\Users\Lenovo_E530\Documents\Visual Studio 2013\Projects\hw1\hw1\bin\Debug\hw1.pdb
+C:\Users\Lenovo_E530\Documents\Visual Studio 2013\Projects\hw1\hw1\obj\Debug\hw1.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo_E530\Documents\Visual Studio 2013\Projects\hw1\hw1\obj\Debug\hw1.exe
+C:\Users\Lenovo_E530\Documents\Visual Studio 2013\Projects\hw1\hw1\obj\Debug\hw1.pdb
