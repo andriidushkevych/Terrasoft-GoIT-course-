@@ -11,7 +11,7 @@ namespace hw1._2
         static void Main(string[] args)
         {
             
-            char letter1 = 'h';
+            char letter1 = 'H';
             int dec1 = Convert.ToInt32(letter1);
             string hex1 = String.Format("{0:X}", dec1);
             Console.WriteLine("Char {0}: dec {1} hex {2}", letter1, dec1, hex1);
@@ -35,6 +35,11 @@ namespace hw1._2
             int dec4 = Convert.ToInt32(letter4);
             string hex4 = String.Format("{0:X}", dec4);
             Console.WriteLine("Char {0}: dec {1} hex {2}", letter4, dec4, hex4);
+
+            char sp = ' ';
+            int dsp = Convert.ToInt32(sp);
+            string hsp = String.Format("{0:X}", dsp);
+            Console.WriteLine("Char {0}: dec {1} hex {2}", sp, dsp, hsp);
 
             char letter5 = 'w';
             int dec5 = Convert.ToInt32(letter5);
