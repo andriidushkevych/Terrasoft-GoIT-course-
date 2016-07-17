@@ -1,0 +1,6 @@
+c:\users\lenovo_e530\documents\visual studio 2013\Projects\hw3\app\bin\Debug\app.exe.config
+c:\users\lenovo_e530\documents\visual studio 2013\Projects\hw3\app\bin\Debug\app.exe
+c:\users\lenovo_e530\documents\visual studio 2013\Projects\hw3\app\bin\Debug\app.pdb
+c:\users\lenovo_e530\documents\visual studio 2013\Projects\hw3\app\obj\Debug\app.csprojResolveAssemblyReference.cache
+c:\users\lenovo_e530\documents\visual studio 2013\Projects\hw3\app\obj\Debug\app.exe
+c:\users\lenovo_e530\documents\visual studio 2013\Projects\hw3\app\obj\Debug\app.pdb
