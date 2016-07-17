@@ -1,0 +1,5 @@
+C:\Users\Lenovo_E530\documents\visual studio 2013\Projects\hw2\2.3\bin\Debug\2.3.exe.config
+C:\Users\Lenovo_E530\documents\visual studio 2013\Projects\hw2\2.3\bin\Debug\2.3.exe
+C:\Users\Lenovo_E530\documents\visual studio 2013\Projects\hw2\2.3\bin\Debug\2.3.pdb
+C:\Users\Lenovo_E530\documents\visual studio 2013\Projects\hw2\2.3\obj\Debug\2.3.exe
+C:\Users\Lenovo_E530\documents\visual studio 2013\Projects\hw2\2.3\obj\Debug\2.3.pdb
