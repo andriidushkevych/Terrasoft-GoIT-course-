@@ -3,3 +3,4 @@ C:\Users\Lenovo_E530\documents\visual studio 2013\Projects\hw2\2.3\bin\Debug\2.3
 C:\Users\Lenovo_E530\documents\visual studio 2013\Projects\hw2\2.3\bin\Debug\2.3.pdb
 C:\Users\Lenovo_E530\documents\visual studio 2013\Projects\hw2\2.3\obj\Debug\2.3.exe
 C:\Users\Lenovo_E530\documents\visual studio 2013\Projects\hw2\2.3\obj\Debug\2.3.pdb
+C:\Users\Lenovo_E530\Documents\Visual Studio 2013\Projects\hw2\2.3\obj\Debug\2.3.csprojResolveAssemblyReference.cache
