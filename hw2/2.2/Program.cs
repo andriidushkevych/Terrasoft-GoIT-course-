@@ -22,7 +22,7 @@ namespace _2._2
 
                         string answ = Console.ReadLine();
 
-                        int rad = Convert.ToInt32(answ);
+                        double rad = Convert.ToDouble(answ);
 
                         double result = Math.PI * Math.Pow(rad, 2);
                         Console.WriteLine(" the square of circle: {0}", result);
@@ -35,7 +35,7 @@ namespace _2._2
 
                         string answ = Console.ReadLine();
 
-                        int rad = Convert.ToInt32(answ);
+                        double rad = Convert.ToDouble(answ);
 
                         double result = (4 * Math.PI * Math.Pow(rad, 3)) / 3;
                         Console.WriteLine(" the volume of sphere: {0}", result);
@@ -50,10 +50,10 @@ namespace _2._2
                         Console.WriteLine("input the length of the second side: ");
                         string answ2 = Console.ReadLine();
 
-                        int s1 = Convert.ToInt32(answ1);
-                        int s2 = Convert.ToInt32(answ2);
+                        double s1 = Convert.ToDouble(answ1);
+                        double s2 = Convert.ToDouble(answ2);
 
-                        float result = s1 * s2;
+                        double result = s1 * s2;
                         Console.WriteLine(" the square of rectangle: {0}", result);
                     }
                     break;
@@ -69,11 +69,12 @@ namespace _2._2
                         Console.WriteLine("input the length of the third side: ");
                         string answ3 = Console.ReadLine();
 
-                        int s1 = Convert.ToInt32(answ1);
-                        int s2 = Convert.ToInt32(answ2);
-                        int s3 = Convert.ToInt32(answ3);
+                        double s1 = Convert.ToDouble(answ1);
+                        double s2 = Convert.ToDouble(answ2);
+                        double s3 = Convert.ToDouble(answ3);
+                        
 
-                        float result = s1 * s2 * s3;
+                        double result = s1 * s2 * s3;
                         Console.WriteLine(" the volume of cuboid: {0}", result);
                     }
                     break;
