@@ -15,7 +15,7 @@ namespace Calculator
             string first = Console.ReadLine();
             double a = Convert.ToDouble(first);
 
-            for (int i = 0; i < 1000; i++ )
+            while (true)
             {
 
                 string oper = GetOperation();
@@ -29,7 +29,6 @@ namespace Calculator
                 a = res;
 
             }
-            Console.ReadKey();
         }
 
         static string GetOperation()

@@ -4,3 +4,9 @@ C:\Users\Lenovo_E530\Documents\Visual Studio 2013\Projects\hw4\Calculator\bin\De
 C:\Users\Lenovo_E530\Documents\Visual Studio 2013\Projects\hw4\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
 C:\Users\Lenovo_E530\Documents\Visual Studio 2013\Projects\hw4\Calculator\obj\Debug\Calculator.exe
 C:\Users\Lenovo_E530\Documents\Visual Studio 2013\Projects\hw4\Calculator\obj\Debug\Calculator.pdb
+D:\Terrasoft-GoIT-course-\hw4\Calculator\bin\Debug\Calculator.exe.config
+D:\Terrasoft-GoIT-course-\hw4\Calculator\obj\Debug\Calculator.exe
+D:\Terrasoft-GoIT-course-\hw4\Calculator\obj\Debug\Calculator.pdb
+D:\Terrasoft-GoIT-course-\hw4\Calculator\bin\Debug\Calculator.exe
+D:\Terrasoft-GoIT-course-\hw4\Calculator\bin\Debug\Calculator.pdb
+D:\Terrasoft-GoIT-course-\hw4\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
