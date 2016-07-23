@@ -4,3 +4,9 @@ C:\Users\Lenovo_E530\documents\visual studio 2013\Projects\hw2\2.1\bin\Debug\2.1
 C:\Users\Lenovo_E530\documents\visual studio 2013\Projects\hw2\2.1\obj\Debug\2.1.csprojResolveAssemblyReference.cache
 C:\Users\Lenovo_E530\documents\visual studio 2013\Projects\hw2\2.1\obj\Debug\2.1.exe
 C:\Users\Lenovo_E530\documents\visual studio 2013\Projects\hw2\2.1\obj\Debug\2.1.pdb
+D:\Terrasoft-GoIT-course-\hw2\2.1\bin\Debug\2.1.exe.config
+D:\Terrasoft-GoIT-course-\hw2\2.1\obj\Debug\2.1.exe
+D:\Terrasoft-GoIT-course-\hw2\2.1\obj\Debug\2.1.pdb
+D:\Terrasoft-GoIT-course-\hw2\2.1\bin\Debug\2.1.exe
+D:\Terrasoft-GoIT-course-\hw2\2.1\bin\Debug\2.1.pdb
+D:\Terrasoft-GoIT-course-\hw2\2.1\obj\Debug\2.1.csprojResolveAssemblyReference.cache
