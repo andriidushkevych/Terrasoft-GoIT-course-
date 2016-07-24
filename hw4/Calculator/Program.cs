@@ -13,7 +13,14 @@ namespace Calculator
             Console.Write("Input first digit: ");
             string first = Console.ReadLine();
             Console.WriteLine(" ");
-            double a = Convert.ToDouble(first);
+
+            double a = 0;
+            if (!double.TryParse(first, out a))
+            {
+                Console.WriteLine("You had to input a digit!!!");
+            }
+            else a = Convert.ToDouble(first);
+            
 
             for (int i = 0; i < 1000; i++ )
             {
