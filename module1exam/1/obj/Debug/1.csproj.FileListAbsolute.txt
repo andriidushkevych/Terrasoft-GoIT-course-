@@ -1,0 +1,6 @@
+c:\users\lenovo_e530\documents\visual studio 2013\Projects\module1exam\1\bin\Debug\1.exe.config
+C:\Users\Lenovo_E530\Documents\Visual Studio 2013\Projects\module1exam\1\bin\Debug\1.exe
+C:\Users\Lenovo_E530\Documents\Visual Studio 2013\Projects\module1exam\1\bin\Debug\1.pdb
+C:\Users\Lenovo_E530\Documents\Visual Studio 2013\Projects\module1exam\1\obj\Debug\1.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo_E530\Documents\Visual Studio 2013\Projects\module1exam\1\obj\Debug\1.exe
+C:\Users\Lenovo_E530\Documents\Visual Studio 2013\Projects\module1exam\1\obj\Debug\1.pdb
