@@ -95,7 +95,11 @@ namespace Calculator
                     } break;
 
             }
-
+            if (result == double.PositiveInfinity)
+            {
+                Console.WriteLine("Error");
+                result = 0;
+            }
             return result;
         }
 
