@@ -10,17 +10,21 @@ namespace Calculator
     {
         static void Main(string[] args)
         {
-            Console.Write("Input first digit: ");
-            string first = Console.ReadLine();
-            Console.WriteLine(" ");
-
             double a = 0;
-            if (!double.TryParse(first, out a))
-            {
-                Console.WriteLine("You had to input a digit!!!");
-            }
-            else a = Convert.ToDouble(first);
             
+            while (a == 0) 
+            { 
+                Console.Write("Input first digit: ");
+                string first = Console.ReadLine();
+                Console.WriteLine(" ");
+
+            
+                if (!double.TryParse(first, out a))
+                {
+                    Console.WriteLine("You had to input a digit!!!");
+                }
+                else a = Convert.ToDouble(first);
+            }
 
             for (int i = 0; i < 1000; i++ )
             {
@@ -49,10 +53,11 @@ namespace Calculator
 
         static double GetAnotherDigit()
         {
+            
             Console.Write("Input another digit: ");
             Console.WriteLine(" ");
             string y = Console.ReadLine();
-            double b = 0;
+            double b;
             if (!double.TryParse(y, out b))
             {
                 Console.WriteLine("You had to input a digit!!!");
@@ -126,12 +131,13 @@ namespace Calculator
 
         static double Division(double xArg, double yArg)
         {
+            double result = 0;
+
             if (yArg == 0)
             {
                 Console.WriteLine("Forbidden operation");
-            }
-
-            double result = xArg / yArg;
+                
+            } else result = xArg / yArg;
 
             return result;
         }
@@ -145,7 +151,12 @@ namespace Calculator
 
         static double Mod(double xArg, double yArg)
         {
-            double result = xArg % yArg;
+            double result = 0;
+
+            if (yArg == 0)
+            {
+                Console.WriteLine("Forbidden operation");
+            } else result = xArg % yArg;
 
             return result;
         }
