@@ -11,20 +11,20 @@ namespace Calculator
         static void Main(string[] args)
         {
             double a = 0;
-            
-            while (a == 0) 
-            { 
-                Console.Write("Input first digit: ");
-                string first = Console.ReadLine();
-                Console.WriteLine(" ");
+
+            start:
+            Console.Write("Input first digit: ");
+            string first = Console.ReadLine();
+            Console.WriteLine(" ");
 
             
-                if (!double.TryParse(first, out a))
-                {
-                    Console.WriteLine("You had to input a digit!!!");
-                }
-                else a = Convert.ToDouble(first);
+            if (!double.TryParse(first, out a))
+            {
+                Console.WriteLine("You had to input a digit!!!");
+                goto start;
             }
+            else a = Convert.ToDouble(first);
+            
 
             for (int i = 0; i < 1000; i++ )
             {
