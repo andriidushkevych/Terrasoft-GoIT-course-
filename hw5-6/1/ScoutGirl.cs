@@ -8,21 +8,20 @@ namespace _1
 {
     class ScoutGirl:Scout
     {
-        private string str;
-        public bool aerobics;
-        public bool fitness;
-        public bool yoga;
-        public bool tableTennis;
-        public bool dance;
+        private string name { get; set; }
 
-        public ScoutGirl(string nameArg, string str="girl")
-            :base(nameArg, str)
+        public void addSport(Sport sport)
         {
-            aerobics = false;
-            fitness = false;
-            yoga = false;
-            tableTennis = false;
-            dance = false;
+            if (sport is SportGirl)
+            {
+                Sport[] newSports = new Sport[sports.Length + 1];
+                for (int i = 0; i < sports.Length; i++)
+                {
+                    newSports[i] = sports[i];
+                }
+                newSports[sports.Length] = sport;
+                sports = newSports;
+            }
         }
     }
 }

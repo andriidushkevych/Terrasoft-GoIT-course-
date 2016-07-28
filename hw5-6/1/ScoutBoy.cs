@@ -8,21 +8,20 @@ namespace _1
 {
     class ScoutBoy:Scout
     {
-        private string str;
-        public bool footbal;
-        public bool voleyball;
-        public bool basketball;
-        public bool tennis;
-        public bool cycling;
+        private string str { get; set; }
 
-        public ScoutBoy(string nameArg, string str="boy")
-            :base(nameArg, str)
+        public void addSport(Sport sport)
         {
-            footbal = false;
-            voleyball = false;
-            basketball = false;
-            tennis = false;
-            cycling = false;
+            if (sport is SportBoys)
+            {
+                Sport[] newSports = new Sport[sports.Length + 1];
+                for (int i = 0; i < sports.Length; i++)
+                {
+                    newSports[i] = sports[i];
+                }
+                newSports[sports.Length] = sport;
+                sports = newSports;
+            }
         }
     }
     /*class BaseClass

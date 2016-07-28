@@ -9,16 +9,21 @@ namespace _1
     class Scout
     {
         public string Name { get; set; }
-        public string Gender { get; set; }
-      
-        public Scout(string nameArg, string gender)
+        public Sport[] sports = new Sport[0];
+
+        public void addSport(Sport sport)
         {
-            Name = nameArg;
-            Gender = gender;
+
         }
 
-        
+        public Sport[] getSports()
+        {
+            return sports;
+        }
 
-
+        public void AddAward(string textArg, string pointsArg)
+        {   
+            
+        }
     }
 }
