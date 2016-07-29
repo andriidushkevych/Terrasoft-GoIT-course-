@@ -10,6 +10,13 @@ namespace _1
     {
         private string name { get; set; }
 
+        public static void addScoutGirl(string nameArg)
+        {
+            ScoutGirl sg = new ScoutGirl();
+            sg.Name = nameArg;
+            Camp.AddScout(sg);
+        }
+
         public void addSport(Sport sport)
         {
             if (sport is SportGirl)

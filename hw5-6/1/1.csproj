@@ -49,7 +49,6 @@
     <Compile Include="Football.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Realization.cs" />
     <Compile Include="Scout.cs" />
     <Compile Include="ScoutBoy.cs" />
     <Compile Include="ScoutGirl.cs" />
