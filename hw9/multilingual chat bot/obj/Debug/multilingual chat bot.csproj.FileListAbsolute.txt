@@ -1,0 +1,6 @@
+c:\users\lenovo_e530\documents\visual studio 2013\Projects\hw9\multilingual chat bot\bin\Debug\multilingual chat bot.exe.config
+c:\users\lenovo_e530\documents\visual studio 2013\Projects\hw9\multilingual chat bot\obj\Debug\multilingual chat bot.csprojResolveAssemblyReference.cache
+c:\users\lenovo_e530\documents\visual studio 2013\Projects\hw9\multilingual chat bot\bin\Debug\multilingual chat bot.exe
+c:\users\lenovo_e530\documents\visual studio 2013\Projects\hw9\multilingual chat bot\bin\Debug\multilingual chat bot.pdb
+c:\users\lenovo_e530\documents\visual studio 2013\Projects\hw9\multilingual chat bot\obj\Debug\multilingual chat bot.exe
+c:\users\lenovo_e530\documents\visual studio 2013\Projects\hw9\multilingual chat bot\obj\Debug\multilingual chat bot.pdb
