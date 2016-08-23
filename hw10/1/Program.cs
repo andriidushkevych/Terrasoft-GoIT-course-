@@ -36,36 +36,40 @@ namespace _1
         {
             Button button = new Button();
 
-            switch(answArg) 
+            foreach (var c in answArg)
             {
-                case ("1"):
-                    {
-                        button.calcutate += Calculator.Addition();
-                        break;
-                    }
-                case ("2"):
-                    {
-                        button.calcutate += Calculator.Substraction();
-                        break;
-                    }
-                case ("3"):
-                    {
-                        button.calcutate += Calculator.Multiplication();
-                        break;
-                    }
-                case ("4"):
-                    {
-                        button.calcutate += Calculator.Division();
-                        break;
-                    }
-                default:
-                    {
-                        Console.WriteLine("Wrong operation");
-                        break;
-                    }
-                
-               
+
+                switch (c)
+                {
+                    case ('1'):
+                        {
+                            button.calcutate += Calculator.Addition;
+                            break;
+                        }
+                    case ('2'):
+                        {
+                            button.calcutate += Calculator.Substraction;
+                            break;
+                        }
+                    case ('3'):
+                        {
+                            button.calcutate += Calculator.Multiplication;
+                            break;
+                        }
+                    case ('4'):
+                        {
+                            button.calcutate += Calculator.Division;
+                            break;
+                        }
+                    default:
+                        {
+                            Console.WriteLine("Wrong operation");
+                            break;
+                        }
+                }
+                button.Calculate();
             }
+
         }
 
         

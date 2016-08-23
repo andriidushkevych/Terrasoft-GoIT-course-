@@ -9,5 +9,10 @@ namespace _1
     class Button
     {
         public event OperationEvent calcutate;
+
+        public void Calculate()
+        {
+            calcutate();
+        }
     }
 }

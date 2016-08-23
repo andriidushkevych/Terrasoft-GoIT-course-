@@ -20,19 +20,19 @@ namespace _1
         public static void Addition()
         {
             int result = A + B;
-            Console.Write("A + B = {0}", result);
+            Console.Write("A + B = {0}\n", result);
         }
 
         public static void Substraction()
         {
             int result = A - B;
-            Console.Write("A - B = {0}", result);
+            Console.Write("A - B = {0}\n", result);
         }
 
         public static void Multiplication()
         {
             int result = A * B;
-            Console.Write("A * B = {0}", result);
+            Console.Write("A * B = {0}\n", result);
         }
 
         public static void Division()
@@ -40,7 +40,7 @@ namespace _1
             if (B != 0)
             { 
                 float result = A / B;
-                Console.Write("A / B = {0}", result);
+                Console.Write("A / B = {0}\n", result);
             }
             else 
             { 
