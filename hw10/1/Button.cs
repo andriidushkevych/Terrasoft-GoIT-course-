@@ -10,7 +10,7 @@ namespace _1
     {
         public event OperationEvent calcutate;
 
-        public void Calculate()
+        public void InvokeCalculateEvent()
         {
             if(calcutate != null)
             calcutate();

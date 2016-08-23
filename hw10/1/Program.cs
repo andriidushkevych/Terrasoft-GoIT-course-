@@ -67,7 +67,7 @@ namespace _1
                             break;
                         }
                 }
-                button.Calculate();
+                button.InvokeCalculateEvent();
             }
 
         }
