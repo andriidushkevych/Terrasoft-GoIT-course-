@@ -12,6 +12,7 @@ namespace _1
 
         public void Calculate()
         {
+            if(calcutate != null)
             calcutate();
         }
     }
