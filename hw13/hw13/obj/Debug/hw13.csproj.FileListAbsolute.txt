@@ -1,0 +1,6 @@
+c:\users\uzer\documents\visual studio 2015\Projects\hw13\hw13\bin\Debug\hw13.exe.config
+C:\Users\Uzer\documents\visual studio 2015\Projects\hw13\hw13\obj\Debug\hw13.csprojResolveAssemblyReference.cache
+C:\Users\Uzer\documents\visual studio 2015\Projects\hw13\hw13\bin\Debug\hw13.exe
+C:\Users\Uzer\documents\visual studio 2015\Projects\hw13\hw13\bin\Debug\hw13.pdb
+C:\Users\Uzer\documents\visual studio 2015\Projects\hw13\hw13\obj\Debug\hw13.exe
+C:\Users\Uzer\documents\visual studio 2015\Projects\hw13\hw13\obj\Debug\hw13.pdb
